@@ -24,6 +24,7 @@ header p {
 
 header.img {
     height: 430px;
+    text-align: center;
 }
 	.feature {
 }
@@ -78,6 +79,7 @@ footer ul li a {
 }
 .menu ul li a {
     font-size: 13px;
+    text-align: center;
 
 }
 
